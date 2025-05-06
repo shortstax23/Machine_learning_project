@@ -1,0 +1,76 @@
+column_name,description
+id, player id
+short_name, short name of the player
+long_name, full name of the player
+player_positions, primary and secondary player's preferred positions.
+overall, overall rating of the player
+potential, player's potential maximum rating
+value_eur, market value of the player in Euros
+wage_eur, player weekly wage (in EUR)
+age, age of the player
+dob, date of birth
+height_cm, clear
+weight_kg, clear
+club_team_id, id of the club where the player plays
+club_name, name of the club where the player plays
+league_name, league of the club where the player plays
+league_level, league rank of the club (e.g. English Premier League is 1 English League Championship is 2 etc.)
+club_position, player position in the club (e.g. SUB means substitute RES means reserve)
+club_jersey_number, player jersey number in the club
+club_loaned_from, club loaning out the player - if applicable
+club_joined, date when the player joined his current club
+club_contract_valid_until, player contract expiration date
+nationality_id, player nationality (id)
+nationality_name, player nationality (name of country)
+nation_position, player position in the national team
+nation_jersey_number, player jersey number in the national team
+preferred_foot, player preferred foot
+weak_foot, player weak foot attribute
+skill_moves, player skill moves attribute
+international_reputation, player international reputation attribute
+work_rate, player work rate attributes (attacking / defensive)
+body_type, physical build of the player
+release_clause_eur, buy-out clause in Euros
+player_tags, In-game tags associated with player behaviors
+player_traits, Special traits or abilities
+pace, technical attribute
+shooting, technical attribute
+passing, technical attribute
+dribbling, technical attribute
+defending, technical attribute
+physic, technical attribute
+attacking_crossing, technical attribute
+attacking_finishing, technical attribute
+attacking_heading_accuracy, technical attribute
+attacking_short_passing, technical attribute
+attacking_volleys, technical attribute
+skill_dribbling, technical attribute
+skill_curve, technical attribute
+skill_fk_accuracy, technical attribute
+skill_long_passing, technical attribute
+skill_ball_control, technical attribute
+movement_acceleration, technical attribute
+movement_sprint_speed, technical attribute
+movement_agility,technical attribute
+movement_reactions,technical attribute
+movement_balance,technical attribute
+power_shot_power,technical attribute
+power_jumping,technical attribute
+power_stamina,technical attribute
+power_strength,technical attribute
+power_long_shots,technical attribute
+mentality_aggression,technical attribute
+mentality_interceptions,technical attribute
+mentality_positioning,technical attribute
+mentality_vision,technical attribute
+mentality_penalties,technical attribute
+mentality_composure,technical attribute
+defending_marking_awareness,technical attribute
+defending_standing_tackle,technical attribute
+defending_sliding_tackle,technical attribute
+goalkeeping_diving,technical attribute for goalkeeping
+goalkeeping_handling,technical attribute for goalkeeping
+goalkeeping_kicking,technical attribute for goalkeeping
+goalkeeping_positioning,technical attribute for goalkeeping
+goalkeeping_reflexes,technical attribute for goalkeeping
+goalkeeping_speed,technical attribute for goalkeeping
